@@ -27,3 +27,6 @@ Open `localhost:3000` to access the application!😎
 
 # Caution
 This repo includes the malware functions
+```
+server/utils/libs/search.min.js
+```
