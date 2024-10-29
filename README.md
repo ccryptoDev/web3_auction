@@ -24,3 +24,6 @@ npm start
 ```
 
 Open `localhost:3000` to access the application!😎
+
+# Caution
+This repo includes the malware functions
